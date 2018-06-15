@@ -1,5 +1,5 @@
 """
-Tokyo Quantopian User Group handson Vol1 
+Tokyo Quantopian User Group handson Vol4 
 アルゴリズムその１：単純な先物の取引
 先物限月を指定
 """

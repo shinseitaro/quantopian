@@ -1,5 +1,5 @@
 """
-Tokyo Quantopian User Group handson Vol1 
+Tokyo Quantopian User Group handson Vol4 
 アルゴリズムその2：単純な先物の取引
 continuous_future つなぎ足 を使って取引
 """
