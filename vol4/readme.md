@@ -23,5 +23,7 @@
 
 1. strategy1.py 限月を指定して取引する．
 2. strategy2.py continuous_future コントラクトを使って取引する
+3. strategy3.py クラックスプレッド
+4. strategy4.py カレンダースプレッド
 
 
